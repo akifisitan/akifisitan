@@ -2,12 +2,11 @@
 
 I'm a Computer Science and Engineering student in my senior year
 
-## About
-- Currently interested in building user interfaces with Svelte
-- Previous experiences
-  - Android development with Java / Kotlin,
-  - Backend development with Java Spring / ASP.NET Web API
-- Planning on learning Go
+Current interest: Building with Svelte + Kit
+
+Previous experiences
+  - Native Android development with Java / Kotlin
+  - Backend development with Java Spring / C# ASP.NET
 
 ## 🔗 Links
 - [Personal Website](https://akifisitan.dev)
