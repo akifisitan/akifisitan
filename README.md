@@ -1,14 +1,5 @@
-# Hey, I'm Akif
+I'm a CS Bachelor student exploring different areas of Software Development.
 
-I'm a Computer Science and Engineering student in my senior year
+Currently interested in building applications with SvelteKit.
 
-Current interest: Building with Svelte + Kit
-
-Previous experiences
-  - Native Android development with Java / Kotlin
-  - Backend development with Java Spring / C# ASP.NET
-
-## 🔗 Links
-- [Personal Website](https://akifisitan.dev)
-- [LinkedIn](https://www.linkedin.com/in/akifisitan)
-- Discord: @akifisitan
+Internship experiences: Native Android development with Java / Kotlin and Backend development with ASP.NET.
