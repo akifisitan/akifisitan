@@ -9,45 +9,45 @@ Software engineer with a focus on web development
 
 ## Languages & Tools
 
-<div style="display:flex;gap:0.5rem">
+<div style="display:flex;">
 
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" style="margin: 0 0.5rem 0 0.5rem" target="_blank">
   <img src="icons/csharp.svg" style="width:2rem;height:2rem;">
 </a>
 
-<a href="https://www.docker.com/" target="_blank">
+<a href="https://www.docker.com/" style="margin: 0 0.5rem 0 0.5rem" target="_blank">
   <img src="icons/docker.svg" style="width:2rem;height:2rem;">
 </a>
 
-<a href="https://www.python.org/" target="_blank">
+<a href="https://www.python.org/" style="margin: 0 0.5rem 0 0.5rem" target="_blank">
   <img src="icons/python.svg" style="width:2rem;height:2rem;">
 </a>
 
-<a href="https://www.typescriptlang.org/" target="_blank">
+<a href="https://www.typescriptlang.org/" style="margin: 0 0.5rem 0 0.5rem" target="_blank">
   <img src="icons/typescript.svg" style="width:2rem;height:2rem;">
 </a>
 
-<a href="https://svelte.dev/" target="_blank">
+<a href="https://svelte.dev/" style="margin: 0 0.5rem 0 0.5rem" target="_blank">
   <img src="icons/svelte.svg" style="width:2rem;height:2rem;">
 </a>
 
-<a href="https://expo.dev/" target="_blank">
+<a href="https://expo.dev/" style="margin: 0 0.5rem 0 0.5rem" target="_blank">
   <img src="icons/expo.svg" style="width:2rem;height:2rem;">
 </a>
 
-<a href="https://react.dev/" target="_blank">
+<a href="https://react.dev/" style="margin: 0 0.5rem 0 0.5rem" target="_blank">
   <img src="icons/react.svg" style="width:2rem;height:2rem;">
 </a>
 
-<a href="https://tailwindcss.com/" target="_blank">
+<a href="https://tailwindcss.com/" style="margin: 0 0.5rem 0 0.5rem" target="_blank">
   <img src="icons/tailwindcss.svg" style="width:2rem;height:2rem;">
 </a>
 
-<a href="https://kotlinlang.org/" target="_blank">
+<a href="https://kotlinlang.org/" style="margin: 0 0.5rem 0 0.5rem" target="_blank">
   <img src="icons/kotlin.svg" style="width:2rem;height:2rem;">
 </a>
 
-<a href="https://developer.android.com/" target="_blank">
+<a href="https://developer.android.com/" style="margin: 0 0.5rem 0 0.5rem" target="_blank">
   <img src="icons/android-icon.svg" style="width:2rem;height:2rem;">
 </a>
 
